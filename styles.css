@@ -80,8 +80,11 @@ ol{
     height:auto;
 }
 .center-img{
+display: block;
+margin: auto;
 padding:3rem;
-margin:auto;
 background-color: black;
-max-width:60%;
+max-width:30%;
+height:auto;
 }
+
