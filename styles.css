@@ -9,7 +9,7 @@
 #title{
     width:100%;
     margin-bottom:1rem;
-    color:midnightblue;
+    color:black;
     background-color: #ededed;
 }
 #tribute-info{
@@ -45,7 +45,7 @@ ol{
  
 }
 #image{
-    max-width:100%;
+    max-width:50%;
     height:auto;
     display:block;
     margin: auto;
