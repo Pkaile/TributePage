@@ -45,7 +45,7 @@ ol{
  
 }
 #image{
-    max-width:50%;
+    max-width:100%;
     height:auto;
     display:block;
     margin: auto;
@@ -82,9 +82,9 @@ ol{
 .center-img{
 display: block;
 margin: auto;
-padding:3rem;
-background-color: black;
-max-width:30%;
+padding:.5rem;
+background-color:black;
+max-width:60%;
 height:auto;
 }
 
